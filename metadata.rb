@@ -10,6 +10,6 @@ version '2.0.1'
   supports os
 end
 
-%w(mysql database).each do |ressource|
+%w(mysql).each do |ressource|
   depends ressource
 end
