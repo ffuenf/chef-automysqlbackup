@@ -15,7 +15,6 @@ Dependencies
 
 This cookbook depends on the following community cookbooks.
 
-* database
 * mysql
 
 Platform
